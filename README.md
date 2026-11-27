@@ -64,5 +64,5 @@ All measurements were collected on physical silicon (**STM32G070RBTX**, ARM Cort
 │   └── rc1_cycles_latency.png                # Cycle & latency profile across V01–V10
 ├── B65F67E4-F985-470E-91D7-BEB47E2669C6.png  # NeuroCore & ODIN architectural poster
 ├── SOURCE_TRACEABILITY.csv                   # File-level traceability map
-├── LICENSE                                   # All Rights Reserved (Academic Inspection Only)
+├── LICENSE                                   # All Rights Reserved (PolyForm Noncommercial License 1.0.0)
 └── README.md
