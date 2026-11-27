@@ -1,0 +1,4 @@
+Host smoke: 100/100
+Engine 7808 bytes; Output 404; M 2872; KA 2812
+UBSan smoke PASS after signed shift fix
+ARM build and HIL NOT RUN
