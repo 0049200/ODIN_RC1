@@ -1,4 +1,4 @@
-# ODIN Native RC1 — Neuro-Inspired Functional Architecture (STM32G070)
+# ODIN Native RC1 — Neuro-Inspired Functional Architecture (STM32G070)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24596897.svg)](https://doi.org/10.5281/zenodo.24596897)
 
 **ODIN Native RC1** is a freestanding ISO C++17 bare-metal prototype investigating computational functions associated with situational awareness, inspired by the anterior insula and anterior cingulate cortex (ACC). It is designed and evaluated on an inexpensive, resource-constrained microcontroller (**STM32G070RBTX**, ARM Cortex-M0+, 36 KB SRAM, no hardware FPU) with **zero dynamic memory allocation**.
 
